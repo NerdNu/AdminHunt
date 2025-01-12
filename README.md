@@ -1,23 +1,19 @@
-AdminHunt
-=========
+# AdminHunt
 
 Selectively allows users to bypass WorldGuard's PVP protection
 
-Dependencies
-------------
+## Dependencies
 
-	Spigot 1.13 or higher
+    Paper 1.17 or higher
 
-	Worldguard 7.0.0 or higher
+    Worldguard 7.0.9 or higher
 
-Usage
------
+## Usage
 
-	/adminhunt <playername> - Allow playername to bypass WorldGuard's PVP flags
+    /adminhunt <playername> - Allow playername to bypass WorldGuard's PVP flags
 
-	/adminhunt-list - Lists players in admin hunt mode
+    /adminhunt-list - Lists players in admin hunt mode
 
-License
--------
+## License
 
 "Open source, public domain. Do what you want with it." - [zifnab06, original author](https://github.com/zifnab06/AdminHunt)
